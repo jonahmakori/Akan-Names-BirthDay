@@ -16,3 +16,5 @@
 ## Deployment    
 - To view the website directly<a href="https://jonahmakori.github.io/Akan-Names-BirthDay/"><i>Click Here</i></a>
 - To view the code on github <a href="https://github.com/jonahmakori/Akan-Names-BirthDay"><i>Click Here</i></a>
+# BDD
+- The website will require a user to fill out information   about his date of birth and the century he was was        born. The application calculates the day of the week      the user was born and outputs it. One will be required    to choose his gender and then click on the submit         button in order to generate his/her Akan name. The        application matches the day of the week with a specific   Akan Name and outputs it to the user with a               personalized message.
