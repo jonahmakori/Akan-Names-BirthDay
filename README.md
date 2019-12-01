@@ -47,5 +47,7 @@
 
     Copyright (c) 2019 Jonah Makori.
 
-
-
+## Contacts
+    At emergence of any inquerries reach me through the following:
+    jonahmakori0@gmail.com
+    0700222621
