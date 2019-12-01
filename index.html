@@ -6,15 +6,41 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Akane Names</title>
-    <script src="js/scripts.js"></script>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="./css/bootstrap.min.css">
 </head>
 
 <body>
     <div class="container">
-        <h1>BirthDay & Akane Names</h1>
-        <h2>Magical App</h2>
+        <div class="jumbotron">
+            <h1>BirthDay & Akane Names</h1>
+            <h2>Magical App</h2>
+            <p>This app mainly is all about giving you your day of Birth and your Akane name<br>Just by entering your
+                birth details</p>
+        </div>
+        <div id="container-fluid">
+            <form>
+                Year of Birth:<input type="number" min="1900" max="2030" id="year">
+            </form>
+            <form>
+                Month of Birth:<input id="month" type="number" max="12" min="01">
+            </form>
+            <form id="" action="/action_page.php">
+                Day of Birth:<input id="day" type="number" min="01" max="31">
+            </form><br>
+            <form>
+                <div>
+                    <label>Gender</label><br>
+                    <input type="radio" name="gender" id="male" value="male" checked> Male
+                    <input type="radio" name="gender" id="female" value="female"checked> Female
+                </div>
+
+                <a onclick="submission()" class="btn btn-outline-info btn-lg">Submit</a>
+                <button type="reset" class="btn btn-outline-info btn-lg">Reset</button>
+                <p id="done"></p>
+                <script src="js/scripts.js"></script>
+            </form>
+        </div>
     </div>
 </body>
 
