@@ -15,15 +15,15 @@ var submission= function() {
     var male =["Kwasi","Kwadwo","Kwabena","KwakuYaw", "Yaw","Kofi","Kwame",];
     var female =["Akosua","Adwoa","Abenaa","Akua","Yaa","Afua","Ama"];
 
-    if (month < 1 || month > 12) {
+    if (month < 1 || month > 12 || "/") {
         done.innerHTML = "Invalid month please try again";
       }
     
-      else if (day < 1 || day > 31) {
+      else if (day < 1 || day > 31 || "/") {
         done.innerHTML ="Invalid date please try again";
       }
     
-     else if (year < 1900) {
+     else if (year < 1900 || "/") {
       done.innerHTML = "Invalid year please try again";
      }
   
