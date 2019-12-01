@@ -28,3 +28,11 @@
 - Bootsrap
 - HTML 5
 - CSS 3
+## Acknowledgement
+- I would like to thank the following for their             assistance through out this project.
+<ol>
+  <li>God Almighty</li>
+  <li>Moringas' Support</li>
+  <li>My collegue <i>Langat Justus</i></li>
+</ol>
+
