@@ -10,3 +10,4 @@
 - Licence
 - Contacts
 - Author
+# THE AKAN-SYSTEM OF NAMING IN GHANA
