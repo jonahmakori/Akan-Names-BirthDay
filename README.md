@@ -22,3 +22,9 @@
 
 ## Project Screenshot
 - The landing page & Fill out form
+
+## Technologies Used
+- Javascript
+- Bootsrap
+- HTML 5
+- CSS 3
