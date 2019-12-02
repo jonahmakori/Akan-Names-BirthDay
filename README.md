@@ -22,7 +22,7 @@
 
 ## Project Screenshot
 - The landing page & Fill out form<br>
-<img src="/home/moringaschool/Documents/Jonah/BirthDay/images/screencapture.jpg" width="70%">
+<img src="screencapture.jpg" width="70%">
 
 ## Technologies Used
 - Javascript
