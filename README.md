@@ -22,7 +22,7 @@
 
 ## Project Screenshot
 - The landing page & Fill out form<br>
-<img src="screencapture.jpg" width="70%">
+![My screenshot](screencapture.jpg)
 
 ## Technologies Used
 - Javascript
