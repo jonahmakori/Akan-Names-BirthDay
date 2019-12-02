@@ -21,7 +21,8 @@
 - <i>Note that all inputs must be in <span>Numbers</span></i>
 
 ## Project Screenshot
-- The landing page & Fill out form
+- The landing page & Fill out form<br>
+<img src="/home/moringaschool/Documents/Jonah/BirthDay/images/Screenshot from 2019-12-02 08-31-29.png" width="70%">
 
 ## Technologies Used
 - Javascript

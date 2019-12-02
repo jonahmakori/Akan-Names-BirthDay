@@ -1,0 +1,7 @@
+body{
+    color: rgb(3, 128, 160);
+    font-size: 30px;
+    background-image: url("https://images.pexels.com/photos/133170/pexels-photo-133170.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+    background-repeat: no-repeat
+}
